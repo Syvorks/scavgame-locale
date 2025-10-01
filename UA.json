@@ -2,7 +2,7 @@
     "name": "English",
     "gameVer": 4,
     "main": {
-        "bandage": "Dressing",
+        "bandage": "Бинт",
         "bandagedsc": "A roll of dressing with a bandage, used to slow down bleeding, stabilize fractures and aid skin healing. Has no effect on muscle health.",
         "rippeddressing": "Ripped dressing",
         "rippeddressingdsc": "A small pile of ripped clothing. Can be used as a makeshift bandage for bleeding wounds.",
